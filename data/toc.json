@@ -1,0 +1,84 @@
+{
+  "sections": [
+    {
+      "items": [
+        {
+          "label": "Home",
+          "href": "index.html"
+        }
+      ]
+    },
+    {
+      "label": "JavaScript Tooling",
+      "items": [
+        {
+          "label": "Grunt",
+          "href": "pages/jstooling/grunt.html"
+        },
+        {
+          "label": "Gulp",
+          "href": "pages/jstooling/gulp.html"
+        },
+        {
+          "label": "Babel",
+          "href": "pages/jstooling/babel.html"
+        },
+        {
+          "label": "NPM",
+          "href": "pages/jstooling/npm.html"
+        },
+        {
+          "label": "Yarn",
+          "href": "pages/jstooling/yarn.html"
+        }
+      ]
+    },
+    {
+      "label": "General Build Tools",
+      "items": [
+        {
+          "label": "MSBuild",
+          "href": "pages/dotnet/nuget.html"
+        }
+      ]
+    },
+    {
+      "label": "Other Notebooks",
+      "items": [
+        {
+          "label": "Web Developer",
+          "href": "https://kevinknowscs.github.io/VanillaJS-Demos"
+        },
+        {
+          "label": "C# / .NET Developer",
+          "href": "https://kevinknowscs.github.io/DotNetNotebook"
+        },
+        {
+          "label": "Software Architecture",
+          "href": "https://kevinknowscs.github.io/ArchitectNotebook"
+        }
+      ]
+    },
+    {
+      "label": "More",
+      "items": [
+        {
+          "label": "About Me",
+          "href": "pages/more/aboutme.html"
+        },
+        {
+          "label": "More Learning Content",
+          "href": "pages/more/morecontent.html"
+        },
+        {
+          "separator": true
+        },
+        {
+          "label": "GitHub Source",
+          "href": "https://github.com/kevinknowscs/DotNetNotebook",
+          "target": "_blank"
+        }
+      ]
+    }
+  ]
+}
